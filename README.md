@@ -1,1 +1,2 @@
-# imagen-a11y
+# imagen-prototype
+
